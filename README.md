@@ -1,4 +1,4 @@
-**Última atualização: 10/04/2026 às 00:04**
+**Última atualização do README.md: 11/04/2026 às 22:05**
 
 Aluno: Heitor Otávio da Silva
 
