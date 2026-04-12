@@ -2,6 +2,4 @@
 
 Aluno: Heitor Otávio da Silva
 
-Curso: Bacharelado em Ciências da Tecnologia
-
-Turma: Noturna A
+Curso: Bacharelado Interdisciplinar em Ciências da Tecnologia
