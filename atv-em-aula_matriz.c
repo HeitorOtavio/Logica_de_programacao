@@ -7,8 +7,7 @@ int main() {
         for (int j = 0; j < 4; j++) {
             printf("[%d][%d] = ", i, j);
             scanf("%d",&mat[i][j]);
-            sumLin[i] += mat[i][j];
-            total += mat[i][j]; 
+            sumLin[i] += mat[i][j]; 
         }
     }
 
@@ -22,7 +21,8 @@ int main() {
 
     printf("Vetor sumLin: ");
     for (int i = 0; i < 3; i++) {
-        printf("%d ", sumLin[i]);       
+        printf("%d ", sumLin[i]);
+        total += sumLin[i];
     }
 
     printf("\nSoma dos elementos: %d", total);
